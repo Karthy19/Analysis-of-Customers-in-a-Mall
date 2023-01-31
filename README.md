@@ -15,15 +15,15 @@ Sklearn
 ## Data
 The data for this project is a sample of customer information from a mall, including customer demographics and purchasing data. The data is in a CSV file called "customer_data.csv" and includes the following columns:
 
-CustomerID: unique ID for each customer
+&#9658 CustomerID: unique ID for each customer
 
-Gender: gender of the customer (male/female)
+&#9658 Gender: gender of the customer (male/female)
 
-Age: age of the customer
+&#9658 Age: age of the customer
 
-Annual Income (k$): annual income of the customer
+&#9658 Annual Income (k$): annual income of the customer
 
-Spending Score (1-100): score assigned to the customer based on their spending habits
+&#9658 Spending Score (1-100): score assigned to the customer based on their spending habits
 
 ## KMeans Clustering
 In this project, the KMeans Clustering algorithm is used to group customers based on their shopping behavior and demographics.
