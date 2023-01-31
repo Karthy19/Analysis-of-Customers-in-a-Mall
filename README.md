@@ -15,7 +15,7 @@ Sklearn
 ## Data
 The data for this project is a sample of customer information from a mall, including customer demographics and purchasing data. The data is in a CSV file called "customer_data.csv" and includes the following columns:
 
-&#9658 CustomerID: unique ID for each customer
+&#9658; CustomerID: unique ID for each customer
 
 &#9658 Gender: gender of the customer (male/female)
 
